@@ -1,0 +1,22 @@
+{
+  "config": {
+    "activation_function": "tanh",
+    "bias": true,
+    "dropout_prob": null,
+    "head_type": "classification",
+    "label2id": {
+      "bug": 0,
+      "feature": 1,
+      "question": 2
+    },
+    "layers": 2,
+    "num_labels": 3,
+    "use_pooler": false
+  },
+  "hidden_size": 768,
+  "model_class": "RobertaAdapterModel",
+  "model_name": "roberta-base",
+  "model_type": "roberta",
+  "name": "Report_bitcoin_bitcoin",
+  "version": "0.0.0"
+}
