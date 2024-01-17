@@ -1,6 +1,7 @@
 accelerate
-adapters==0.1.0
+adapters==0.1.1
 datasets
 evaluate
 scikit-learn
 transformers
+wandb
