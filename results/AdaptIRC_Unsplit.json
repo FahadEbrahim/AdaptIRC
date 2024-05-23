@@ -1,0 +1,134 @@
+{
+  "bitcoin/bitcoin": {
+    "bug": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "feature": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "question": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "average": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    }
+  },
+  "tensorflow/tensorflow": {
+    "bug": {
+      "precision": 1.0,
+      "recall": 0.98,
+      "f1-score": 0.98989898989899
+    },
+    "feature": {
+      "precision": 0.9900990099009901,
+      "recall": 1.0,
+      "f1-score": 0.9950248756218906
+    },
+    "question": {
+      "precision": 0.9900990099009901,
+      "recall": 1.0,
+      "f1-score": 0.9950248756218906
+    },
+    "average": {
+      "precision": 0.9933993399339935,
+      "recall": 0.9933333333333333,
+      "f1-score": 0.9933162470475903
+    }
+  },
+  "microsoft/vscode": {
+    "bug": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "feature": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "question": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "average": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    }
+  },
+  "opencv/opencv": {
+    "bug": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "feature": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "question": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "average": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    }
+  },
+  "facebook/react": {
+    "bug": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "feature": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "question": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    },
+    "average": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0
+    }
+  },
+  "overall": {
+    "bug": {
+      "precision": 1.0,
+      "recall": 0.9960000000000001,
+      "f1-score": 0.997979797979798
+    },
+    "feature": {
+      "precision": 0.998019801980198,
+      "recall": 1.0,
+      "f1-score": 0.9990049751243781
+    },
+    "question": {
+      "precision": 0.998019801980198,
+      "recall": 1.0,
+      "f1-score": 0.9990049751243781
+    },
+    "average": {
+      "precision": 0.9986798679867988,
+      "recall": 0.9986666666666666,
+      "f1-score": 0.9986632494095181
+    }
+  }
+}
