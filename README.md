@@ -32,12 +32,15 @@ The adapters created ara available on the following link:
 The JSON format results are avaialble on the results directory at 
 [Results](results)
 
+## Logs on wandb:
+All the results and metrics ara available at: 
+[IRC wandb](https://wandb.ai/fahad-ebrahim/IRC%20RoBERTa%20Adapters/workspace?nw=nwuserfahadebrahim)
 
 ## eIRC Web Application
-The adapters created ara available on the following link: 
+The adapters created are available on the following link: 
 [eIRC](https://huggingface.co/spaces/buelfhood/eIRC)
 
-## Acknowedgement
+## Acknowledgement
 This repository used codes of different libraries and other notebooks:
 1. [Adapters](https://github.com/adapter-hub/adapters)
 2. [Transformers](https://github.com/huggingface/transformers)
