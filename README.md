@@ -37,7 +37,7 @@ All the results and metrics ara available at:
 [IRC wandb](https://wandb.ai/fahad-ebrahim/IRC%20RoBERTa%20Adapters/workspace?nw=nwuserfahadebrahim)
 
 ## eIRC Web Application
-The adapters created are available on the following link: 
+The eIRC web application demonstration is available on HuggingFace on the following link: 
 [eIRC](https://huggingface.co/spaces/buelfhood/eIRC)
 
 ## Acknowledgement
