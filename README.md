@@ -52,29 +52,22 @@ This repository used codes of different libraries and other notebooks:
 The work is based on the NLBSE'24 competition.
 
 ```bibtex
-@inproceedings{nlbse2024,
-  author={Kallis, Rafael and Colavito, Giuseppe and Al-Kaswan, Ali and Pascarella, Luca and Chaparro, Oscar and Rani, Pooja},
+@inproceedings{kallis2024nlbse,
   title={The NLBSE'24 Tool Competition},
-  booktitle={Proceedings of The 3rd International Workshop on Natural Language-based Software Engineering (NLBSE'24)},
+  author={Kallis, Rafael and Colavito, Giuseppe and Al-Kaswan, Ali and Pascarella, Luca and Chaparro, Oscar and Rani, Pooja},
+  booktitle={Proceedings of the Third ACM/IEEE International Workshop on NL-based Software Engineering},
+  pages={33--40},
   year={2024}
 }
 ```
 It is also an extention of the AdaptIRC model.
 ```bibtex
-@inproceedings{Ebrahim2024FewShot,
-  author = {Fahad Ebrahim and Mike Joy},
-  title = {Few-Shot Issue Report Classification with Adapters},
-  booktitle = {2024 ACM/IEEE International Workshop on NL-based Software Engineering (NLBSE '24)},
-  year = {2024},
-  month = {April},
-  day = {20},
-  address = {Lisbon, Portugal},
-  publisher = {ACM},
-  location = {New York, NY, USA},
-  pages = {4},
-  numpages = {4},
-  doi = {10.1145/3643787.3648039},
-  url = {https://doi.org/10.1145/3643787.3648039}
+@inproceedings{ebrahim2024few,
+  title={Few-Shot Issue Report Classification with Adapters},
+  author={Ebrahim, Fahad and Joy, Mike},
+  booktitle={Proceedings of the Third ACM/IEEE International Workshop on NL-based Software Engineering},
+  pages={41--44},
+  year={2024}
 }
 ```
 The Journal will be shared later. 
